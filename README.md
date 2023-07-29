@@ -6,11 +6,6 @@ An horror-lite FPS prototype ambienced at night in a graveyard and crypt where y
 ![Nightmare Night Axe](https://user-images.githubusercontent.com/71871620/172585522-64a9719a-bd7e-476f-be56-77531beca52f.gif)
 
 
-
-### Gameplay Preview Video
-A lengthier gameplay video showing all features can be seen on vimeo on the following adress: https://vimeo.com/710820007
-
-
 This game is based on the Zombie Runner section of the GameDev.tv Unity 3D course.
 
 My original implementations are:
@@ -25,5 +20,3 @@ My original implementations are:
 - Implemented the ability to retrieve the axe by choosing the relevant option on the pause menu. This is done to solve possible issues where the axe falls down into a place that makes it irretrievable.
 - Implemented narrative through pop ups to give players direction.
 - Implemented lore through 5 collectable scrolls showing the story of someone who was also on the same place at an undetermined erlier time.
-
-To play the game download the zip file, extract and double click on the executable. Alternatively, the game can be played online at https://sharemygame.com/@OuterGazer/nightmare-night
