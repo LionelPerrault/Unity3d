@@ -2,10 +2,6 @@
 An horror-lite FPS prototype ambienced at night in a graveyard and crypt where you have to fight zombies and rescue your lost friends.
 
 
-### Early Build Gameplay Gif Showcasing Throwing Axe Behaviour
-![Nightmare Night Axe](https://user-images.githubusercontent.com/71871620/172585522-64a9719a-bd7e-476f-be56-77531beca52f.gif)
-
-
 This game is based on the Zombie Runner section of the GameDev.tv Unity 3D course.
 
 My original implementations are:
